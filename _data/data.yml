@@ -182,7 +182,7 @@ skills:
       - name: Git
         level: 80%
 
-      - name: Data Visualization (Seaborn, Matplotlib, Tableau, PowerBI)
+      - name: Data Visualization
         level: 80%
 
       - name: R
