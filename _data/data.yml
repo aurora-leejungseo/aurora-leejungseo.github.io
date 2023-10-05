@@ -120,26 +120,26 @@ experiences:
 
 
 
-certifications:
-      title: Certifications
-      list:
-        - name: 
-          start: 
-          end: 
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: 
+#           start: 
+#           end: 
+#           organization: 
+#           credentialid: 
+#           credentialurl: 
+#           credentialname: 
+#           details: |
 
-        - name: 
-          start: 
-          end:
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
+#         - name: 
+#           start: 
+#           end:
+#           organization: 
+#           credentialid: 
+#           credentialurl: 
+#           credentialname: 
+#           details: |
           
 
 projects:
