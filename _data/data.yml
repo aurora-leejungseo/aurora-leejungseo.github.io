@@ -8,257 +8,187 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Aurora Jungseo Lee
+    tagline: Data Scientist/Lecturer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: jungseo@umich.edu
+    phone: 734 277 0140
+    timezone: Eastern Standard Time (EST)
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: aurora-leejungseo
+    xing: 
+    github: aurora-leejungseo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Fluent
+
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Chinese Mandarin
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Camping
           link:
 
         - item: Cooking
           link:
 
+        - item: Traveling
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As a highly skilled and motivated data scientist with technical expertise in Python, SQL, and machine learning algorithms, I have a proven track
+    record of collaborating with non-technical stakeholders, I excel at translating complex data into actionable insights that drive business growth
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Information
+        university: University of Michigan
+        time: 2021 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Core courses took
+            - Applied Statistics: Regression, Generalized Linear Regression
+            - Computer Science: Python Programming, Intermediate Programming, Git & Server
+            - Data Science: Applied Machine Learning, Data Mining
+      - degree: BSc in Business Administration and BA in Chinese Area Studies
+        university: Hankuk University of Foreign Studies
+        time: 2010 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Lecturer
+        time: May 2023 - Current
+        company: University of Michigan, Ann Arbor, MI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Developed Python-based course content, collaborated with other instructors on GitHub to improve materials and delivery
+            - Provided timely guidance and instruction to over 600 students across Programming 1, Database & SQL, Machine Learning Pipeline, and 
+              Communicating Data Science Results courses via diverse communication channels
+      - role: Graduate Student Instructor
+        time: Aug. 2022 - Apr. 2023
+        company: University of Michigan, Ann Arbor, MI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Instructed 300+ students in a Machine Learning Pipeline course, covering Git version control and diverse pipeline construction techniques 
+              using Makefile and DVC
+            - Achieved a top instructor evaluation score of 4.93/5.0 by providing timely feedback to students
+      - role: Data Analytics Intern
+        time: May 2022 - Aug. 2022
+        company: Centene, St. Louis, MO
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Enhanced operational efficiency at a Fortune 26 healthcare company by developing an electronic document delivery project and identifying 
+              cost-saving opportunities through analyzing 8.7-million-member data on Teradata and Pandas
+            - Constructed a complex database that integrated massive amounts of member data from multiple sources using advanced SQL queries on 
+              Teradata and Alation
+      - role: Intelligence Analyst
+        time: Feb. 2020 - Sep. 2020
+        company: Nielsen, Seoul, South Korea
+        details: |
+            - Developed customized analytical models that successfully secured project bids, translating client inquiries into analytical metrics
+            - Facilitated collaboration between internal data science teams and clients to extract analytics insights from disparate data sources, 
+              resulting in impactful outcomes including a 12% sales increase within two weeks via price and shelf assortment optimization
+            - Delivered comprehensive project reports and presentations to internal and external clients, providing clear and compelling explanations of 
+              complex data analysis results
+      - role: Customer Account Associate
+        time: Oct. 2017 - Oct. 2018
+        company: Shutterstock, Singapore
+        details: |
+            - Leveraged up-selling and cross-selling strategies to drive product sales across the U.S., India, Australia, and Korea
+            - Achieved global top 5% performance by surpassing quarterly sales targets by 130% and attaining 95% customer satisfaction in a 
+              fast-paced work environment
+
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: 
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: 
+          start: 
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Tesla Stock Trend Prediction Using News Articles
+        link: "https://github.com/aurora-leejungseo/UMSI_SI699WIN23_Tesla_Stock_and_News"
+        tagline: "Built a dataset with API from the top 100 news sources and implemented multiple deep learning models, including GRU and CNN to predict Tesla stock trends using some NLP techniques with news articles
+"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Restaurant Closure Prediction
+        link: "https://github.com/aurora-leejungseo/restaurant_closure_prediction"
+        tagline: "Fitted various boosted, tree-based, and statistical models to Yelp API and demographic data such as average household income and level of education to predict restaurant closure within the next two years, resulting in a model with a ROC score of 84%"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Market Basket Analysis and Customer Segmentation
+        link: "https://github.com/aurora-leejungseo/customer_segmentation_market_basket"
+        tagline: "Implemented Apriori algorithms to Instacart order data and K-Means clustering algorithms to categorize 200k customers into 5 segments, in order to gain insights into popular product combinations and customer segmentation for the targeted marketing strategies"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Soccer Data Visualization
+        link: "https://github.com/aurora-leejungseo/soccer_data_visualization"
+        tagline: "Designed and implemented algorithms to generate interactive visualizations of player location and pass interactions, unlocking new opportunities for data analysis in the field of soccer."
 
-      - title: Delta
+      - title: ANES 2020 Analysis with GLM Models
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Conducted data wrangling and model fitting, using R, on various GLM models and mixed effect models to explore the potential impact of statistical model choice on the conclusion drawn from the American National Election Studies dataset"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: SQL
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Git
+        level: 80%
+
+      - name: Data Visualization (Seaborn, Matplotlib, Tableau, PowerBI)
+        level: 80%
+
+      - name: R
+        level: 50%
+
+      - name: API
         level: 60%
 
 footer: >
