@@ -98,10 +98,10 @@ experiences:
         time: May 2022 - Aug. 2022
         company: Centene, St. Louis, MO
         details: |
-            - Enhanced operational efficiency at a Fortune 26 healthcare company by developing an electronic document delivery project and identifying 
-              cost-saving opportunities through analyzing 8.7-million-member data on Teradata and Pandas
-            - Constructed a complex database that integrated massive amounts of member data from multiple sources using advanced SQL queries on 
-              Teradata and Alation
+            - Spearheaded an electronic document delivery project, optimizing operational efficiency at a Fortune 26 healthcare company, while conducting an 
+              in-depth analysis of 8.7-million-member records on Teradata and Pandas to identify cost-saving opportunities
+            - Employed SQL querying skills and Python scripting to extract and preprocess data from multiple data structures for analytical modeling, 
+              showcasing a strong command of data retrieval and transformation techniques
       - role: Intelligence Analyst
         time: Feb. 2020 - Sep. 2020
         company: Nielsen, Seoul, South Korea
@@ -109,8 +109,8 @@ experiences:
             - Developed customized analytical models that successfully secured project bids, translating client inquiries into analytical metrics
             - Facilitated collaboration between internal data science teams and clients to extract analytics insights from disparate data sources, 
               resulting in impactful outcomes including a 12% sales increase within two weeks via price and shelf assortment optimization
-            - Delivered comprehensive project reports and presentations to internal and external clients, providing clear and compelling explanations of 
-              complex data analysis results
+            - Skillfully conveyed intricate data analysis to both internal and external stakeholders in consulting reports and presentations,
+              leveraging strong communication skills, data storytelling, and business acumen
       - role: Customer Account Associate
         time: Oct. 2017 - Oct. 2018
         company: Shutterstock, Singapore
@@ -148,14 +148,17 @@ projects:
     intro: >
 
     assignments:
-      - title: Tesla Stock Trend Prediction Using News Articles
-        link: "https://github.com/aurora-leejungseo/UMSI_SI699WIN23_Tesla_Stock_and_News"
-        tagline: "Built a dataset with API from the top 100 news sources and implemented multiple deep learning models, including GRU and CNN to predict Tesla stock trends using some NLP techniques with news articles
-"
-
+      - title: Sales Time Series Forecasting
+        link: "https://github.com/aurora-leejungseo/sales_time_series_forecasting"
+        tagline: "Implemented a monthly sales forecast model with ARIMA as part of the project, encompassing exploratory data analysis, time series data modeling, and performance evaluation"
+    
       - title: Restaurant Closure Prediction
         link: "https://github.com/aurora-leejungseo/restaurant_closure_prediction"
         tagline: "Fitted various boosted, tree-based, and statistical models to Yelp API and demographic data such as average household income and level of education to predict restaurant closure within the next two years, resulting in a model with a ROC score of 84%"
+
+      - title: Tesla Stock Trend Prediction Using News Articles
+        link: "https://github.com/aurora-leejungseo/UMSI_SI699WIN23_Tesla_Stock_and_News"
+        tagline: "Built a dataset with API from the top 100 news sources and implemented multiple deep learning models, including GRU and CNN to predict Tesla stock trends using some NLP techniques with news articles"
 
       - title: Market Basket Analysis and Customer Segmentation
         link: "https://github.com/aurora-leejungseo/customer_segmentation_market_basket"
