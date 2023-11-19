@@ -162,7 +162,7 @@ projects:
 
       - title: Market Basket Analysis and Customer Segmentation
         link: "https://github.com/aurora-leejungseo/customer_segmentation_market_basket"
-        tagline: "Implemented Apriori algorithms to Instacart order data and K-Means clustering algorithms to categorize 200k customers into 5 segments, in order to gain insights into popular product combinations and customer segmentation for the targeted marketing strategies"
+        tagline: "Implemented Apriori algorithms to Instacart order data and K-Means clustering algorithms to categorize 200k customers into groups, in order to gain insights into popular product combinations and segmented customer groups for the targeted marketing strategies"
 
       - title: Soccer Data Visualization
         link: "https://github.com/aurora-leejungseo/soccer_data_visualization"
