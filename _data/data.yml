@@ -164,9 +164,17 @@ projects:
         link: "https://github.com/aurora-leejungseo/customer_segmentation_market_basket"
         tagline: "Implemented Apriori algorithms to Instacart order data and K-Means clustering algorithms to categorize 200k customers into groups, in order to gain insights into popular product combinations and segmented customer groups for the targeted marketing strategies"
 
+      - title: Databricks Delta Live Tables demo
+        link: "https://github.com/aurora-leejungseo/divvy_bikes_databricks_demo"
+        tagline: "Constructed a pipeline to capture real-time data from Divvy Bikes, Chicago's bike-sharing service, and weather information. This project involves leveraging a Delta live table and crafting an interactive dashboard for effective monitoring"
+
+      - title: PowerBI IT Spend Visualization
+        link: "https://github.com/aurora-leejungseo/PowerBI_budget"
+        tagline: "Created an interactive Power BI dashboard with diverse features by harnessing IT spend data, enabling a thorough monthly analysis of actual versus forecasted budget utilization and offering a detailed exploration of contributing factors for each budget component"
+
       - title: Soccer Data Visualization
         link: "https://github.com/aurora-leejungseo/soccer_data_visualization"
-        tagline: "Designed and implemented algorithms to generate interactive visualizations of player location and pass interactions, unlocking new opportunities for data analysis in the field of soccer."
+        tagline: "Designed and implemented algorithms to generate interactive visualizations of player location and pass interactions, unlocking new opportunities for data analysis in the field of soccer"
 
       - title: ANES 2020 Analysis with GLM Models
         link: "#"
